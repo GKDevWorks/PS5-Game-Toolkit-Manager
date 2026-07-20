@@ -27,8 +27,14 @@ archives, exFAT images and extracted game folders.
 
 ## Screenshots
 
-Screenshots of the File Scanner, conversion pages and application settings
-will be added below.
+<img width="4021" height="2348" alt="1" src="https://github.com/user-attachments/assets/bc1feaa8-1865-4b37-913c-fec36ec90190" />
+<img width="3985" height="2338" alt="2" src="https://github.com/user-attachments/assets/6cb9e307-dd27-424e-8807-688f7f95734c" />
+<img width="3996" height="2336" alt="3" src="https://github.com/user-attachments/assets/1606f67f-359d-485a-8518-6356ae0b9e76" />
+<img width="4016" height="2348" alt="4" src="https://github.com/user-attachments/assets/2f9acbe4-c86a-4559-92b7-9ab29a514a84" />
+<img width="4032" height="2344" alt="5" src="https://github.com/user-attachments/assets/20ff5da5-46e9-44b3-a1ca-09aa37fa86b9" />
+<img width="4004" height="2325" alt="6" src="https://github.com/user-attachments/assets/c3f99750-fd8d-4f7b-b06e-be01e34227cf" />
+<img width="4016" height="2328" alt="7" src="https://github.com/user-attachments/assets/5aadacda-abba-4b01-884e-2974aac76f9c" />
+<img width="4032" height="2348" alt="8" src="https://github.com/user-attachments/assets/8584f642-086a-413c-b26e-b711ea00d0b5" />
 
 ## Download
 
